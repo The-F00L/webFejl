@@ -1,0 +1,77 @@
+Egyszerű műveletek:
+
+1. feladat:
+Hozz létre egy változót négyzet néven,
+ennek a változónak legyen az értéke 6,
+írasd ki a szám négyzetét
+2. feladat:
+Írj programot, amely egy Celvinben megadott hőmérsékletet farenheitbe vált át!
+3. feladat:
+Generálj három számot, mindegyik legyen pontosan 0 és 255 között!
+Rajzoltasd ki egy négyzetet a képernyő közepére,
+amely RGB alapján megfelelő színű.
+4. feladat:
+Készíts programot, ami egy véletlen számot átvált centiméterből méterbe!
+5. feladat:
+Kérd be a fogyasztást, a megtett utat és a benzinköltséget,
+írsd ki mennyibe került a megtett út!
+
+Egyágú elágazás:
+
+6. feladat:
+Generálj egy véletlen számot,
+ha a véletlen szám nagyobb, vagy egyenlő, mint 18, írasd ki, hogy dohányozhatsz,
+ha a véletlen szám kisebb, mint 18, akkor írasd ki, hogy nem dohányozhatsz!
+7. feladat:
+Generálj egy véletlen számot -10 és +10 között,
+ha ez a szám pozitív, akkor írasd ki,
+ha negatív, azt is,
+a nulla esetre is gondolj!
+8. feladat:
+Generálj egy véletlen számot 1 és 100 között,
+Döntsd el a számról, hogy osztható-e 3-mal és 7-tel egyszerre!
+Igen-t, vagy Nem-et írjon ki a program!
+
+Kétágú (többágú is) elágazás: (IF-ELSE, SWITCH)
+
+9. feladat:
+6-os feladat megoldása if-else szerkezettel!
+10. feladat:
+7-es feladat megoldása is-else szerkezettel!
+11. feladat:
+Generálj véletlen számot 1000 és 3000 között
+írasd ki szökőév-e vagy sem!
+12. feladat:
+Generálj egy véletlen számot, ami azt tárolja, hogy van-e nyelvvizsgád vagy sem!
+Írasd ki, hogy megkapod-e a diplomád ez alapján az érték alapján!
+(ha van nyelvvizsga, akkor igen, ha nincs, akkor nem!)
+13. feladat:
+Generálj egy véletlen számot 1 és 1000 között,
+írasd ki milyen helyiértékű a szám!
+1-es, 10-es, 100-as, vagy 1000-res helyiértékű!
+14. feladat:
+Generálj 5 lottó számot!
+Nehezítésként megoldhatod úgy is a feladatot, hogy ne legyen a számok között egyforma!
+
+Ciklusok:
+
+15. feladat:
+Írasd ki a képernyőre 50 és 100 között a páros számokat!
+16. feladat:
+Írasd ki a képernyőre a számokat 1000 és 2000 között,
+amelyek oszthatóak 3-mal, 5-tel és 10-zel!
+17. feladat:
+Írj alkalmazást, amel generál két véletlen számot,
+mindkét véletlen szám legyen 1 és 100 között!
+A két szám között írasd ki a számokat növekvő sorrendben!
+Ha a kezdőérték véletlenül kisebb, mint a végérték, 
+akkor dobj hibaüzenetet!
+18. feladat:
+Generáltass egy véletlen számot 1 és 10000 között,
+írasd ki milyen apró és papír pénzeknek adható ki!
+Például 5545 forint az 
+1 darab 5000 forintos,
+1 darab 500 forintos,
+2 darab 20 forintos és
+1 darab 5 forintos.
+
